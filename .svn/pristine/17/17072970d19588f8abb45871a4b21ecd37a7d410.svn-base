@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RAMONDHP</Machine>
+    <WindowsUser>Raymond</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>E0D2A4489504C9C931454965C323D1C915A8EF9DD9CAD170905932FAA3B0E2C7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>32694rayd250592.GoAwayRain_1.0.0.2_neutral__fb29x01rmnysm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>32694rayd250592.GoAwayRain_fb29x01rmnysm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>32694rayd250592.GoAwayRain</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.2</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Raymond\Documents\GoAwayRain\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-01T23:18:31.751</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+<<<<<<< .mine
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\egghunt\bin\Release\egghunt.exe">
+      <PackagePath>egghunt.exe</PackagePath>
+      <Modified>2013-08-10T19:07:21.028</Modified>
+=======
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GoAwayRain\bin\Release\GoAwayRain.exe">
+      <PackagePath>GoAwayRain.exe</PackagePath>
+      <Modified>2013-08-01T23:18:31.500</Modified>
+>>>>>>> .r9
+    </AppxPackagedFile>
+<<<<<<< .mine
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\egghunt\bin\Release\egghunt.pdb">
+      <PackagePath>egghunt.pdb</PackagePath>
+      <Modified>2013-08-10T19:07:20.985</Modified>
+=======
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GoAwayRain\bin\Release\GoAwayRain.pdb">
+      <PackagePath>GoAwayRain.pdb</PackagePath>
+      <Modified>2013-08-01T23:18:31.469</Modified>
+>>>>>>> .r9
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GoAwayRain\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+      <Modified>2013-08-01T22:12:33.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GoAwayRain\Assets\rain.png">
+      <PackagePath>Assets\rain.png</PackagePath>
+      <Modified>2013-08-01T22:31:48.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GoAwayRain\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-01T22:43:42.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GoAwayRain\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-01T22:44:17.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GoAwayRain\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-01T22:44:44.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GoAwayRain\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-01T22:42:27.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GoAwayRain\Assets\sun.png">
+      <PackagePath>Assets\sun.png</PackagePath>
+      <Modified>2013-08-01T22:18:50.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GoAwayRain\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-03-19T14:06:15.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GoAwayRain\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T15:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GoAwayRain\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-08-01T22:38:48.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GoAwayRain\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-01T23:18:31.622</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

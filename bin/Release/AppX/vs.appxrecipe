@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RAYMOND-HP</Machine>
+    <WindowsUser>Raymond</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>32694rayd250592.GoAwayRain</PackageIdentityName>
+    <RegisteredManifestChecksum>26E41C5E81FC48554EF4D864616BBFAD05606E46B8290F206AED172D0B111B22</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>32694rayd250592.GoAwayRain_1.0.0.2_neutral__fb29x01rmnysm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>32694rayd250592.GoAwayRain_fb29x01rmnysm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>32694rayd250592.GoAwayRain</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.2</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-22T22:55:38.685</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\GoAwayRain.exe">
+      <PackagePath>GoAwayRain.exe</PackagePath>
+      <Modified>2013-12-22T23:00:27.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+      <Modified>2013-12-22T22:45:57.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\rain.png">
+      <PackagePath>Assets\rain.png</PackagePath>
+      <Modified>2013-12-22T22:45:57.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-22T22:58:43.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\scene.png">
+      <PackagePath>Assets\scene.png</PackagePath>
+      <Modified>2013-12-22T22:51:02.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-22T22:59:13.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\snow.png">
+      <PackagePath>Assets\snow.png</PackagePath>
+      <Modified>2013-12-22T22:52:07.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-22T22:57:43.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-22T22:59:40.158</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\sun.png">
+      <PackagePath>Assets\sun.png</PackagePath>
+      <Modified>2013-12-22T22:45:57.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-12-22T22:45:56.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-12-22T22:45:56.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-12-22T22:59:47.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-22T22:55:37.999</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

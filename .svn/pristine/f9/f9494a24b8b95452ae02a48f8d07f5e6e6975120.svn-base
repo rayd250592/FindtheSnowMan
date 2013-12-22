@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RAMONDHP</Machine>
+    <WindowsUser>Raymond</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>082027B37404923D8A3722347267737E2E8CA68CE94D2830505BCF20936A2782</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0ee8eaad-8ba6-40bb-9a97-7a471a677be0_1.0.0.0_neutral__9pc4ezq4rpv7w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0ee8eaad-8ba6-40bb-9a97-7a471a677be0_9pc4ezq4rpv7w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0ee8eaad-8ba6-40bb-9a97-7a471a677be0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Raymond</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Raymond\Documents\egghunt\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-26T21:40:24.662</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\egghunt\bin\Debug\egghunt.exe">
+      <PackagePath>egghunt.exe</PackagePath>
+      <Modified>2013-03-26T22:48:24.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\egghunt\bin\Debug\egghunt.pdb">
+      <PackagePath>egghunt.pdb</PackagePath>
+      <Modified>2013-03-26T22:48:24.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\egghunt\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+      <Modified>2013-03-19T14:46:31.377</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\egghunt\Assets\brown-egg-clip-art.jpg">
+      <PackagePath>Assets\brown-egg-clip-art.jpg</PackagePath>
+      <Modified>2013-03-20T16:48:26.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\egghunt\Assets\Sounds\crack.mp3">
+      <PackagePath>Assets\Sounds\crack.mp3</PackagePath>
+      <Modified>2013-03-26T14:17:12.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\egghunt\Assets\egg.png">
+      <PackagePath>Assets\egg.png</PackagePath>
+      <Modified>2013-03-20T16:51:45.362</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\egghunt\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\egghunt\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-20T16:36:49.957</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\egghunt\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-26T22:47:10.076</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\egghunt\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\egghunt\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-03-19T14:06:15.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\egghunt\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T15:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\egghunt\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-03-26T22:06:24.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\egghunt\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-03-26T21:40:24.403</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="32694rayd250592.GoAwayRain" Publisher="CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E" Version="1.0.0.2" />
+  <Properties>
+    <DisplayName>Go Away Rain</DisplayName>
+    <PublisherDisplayName>rayd_250592</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="egghunt.App">
+      <VisualElements DisplayName="Go Away Rain" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="Go Away Rain" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+</Package>
