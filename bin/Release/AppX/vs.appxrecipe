@@ -5,25 +5,25 @@
     <WindowsUser>Raymond</WindowsUser>
     <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <PackageIdentityName>32694rayd250592.GoAwayRain</PackageIdentityName>
-    <RegisteredManifestChecksum>26E41C5E81FC48554EF4D864616BBFAD05606E46B8290F206AED172D0B111B22</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>32694rayd250592.GoAwayRain_1.0.0.2_neutral__fb29x01rmnysm</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>32694rayd250592.GoAwayRain_fb29x01rmnysm!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>32694rayd250592.GoAwayRain</RegisteredPackageID>
+    <PackageIdentityName>32694rayd250592.FindtheSnowman</PackageIdentityName>
+    <RegisteredManifestChecksum>036CB655D60287867FC79E74E5733B01FFC0DA66C4FB930F19A5069AA3E93F58</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>32694rayd250592.FindtheSnowman_1.0.0.1_neutral__fb29x01rmnysm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>32694rayd250592.FindtheSnowman_fb29x01rmnysm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>32694rayd250592.FindtheSnowman</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.2</RegisteredVersion>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-12-22T22:55:38.685</Modified>
+      <Modified>2013-12-23T21:40:18.858</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\GoAwayRain.exe">
-      <PackagePath>GoAwayRain.exe</PackagePath>
-      <Modified>2013-12-22T23:00:27.695</Modified>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\FindtheSnowman.exe">
+      <PackagePath>FindtheSnowman.exe</PackagePath>
+      <Modified>2013-12-23T21:40:18.341</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\background.jpg">
       <PackagePath>Assets\background.jpg</PackagePath>
@@ -79,7 +79,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-12-22T22:55:37.999</Modified>
+      <Modified>2013-12-23T21:40:18.575</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

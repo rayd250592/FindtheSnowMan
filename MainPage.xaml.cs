@@ -110,7 +110,7 @@ namespace egghunt
             {
 
 
-                var messageDialog2 = new MessageDialog("The rain has gone!");
+                var messageDialog2 = new MessageDialog("You got all the snowmen. Very well done!");
                 await messageDialog2.ShowAsync();
                 score = 0;
                 result.Text = Convert.ToString(score);

@@ -1,1 +1,1 @@
-C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\AppPackages\egghunt_1.0.0.0_AnyCPU_Test\egghunt_1.0.0.0_AnyCPU.appx
+C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\AppPackages\egghunt_1.0.0.1_AnyCPU_Test\egghunt_1.0.0.1_AnyCPU.appx

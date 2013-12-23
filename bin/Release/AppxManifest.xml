@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="32694rayd250592.FindtheSnowman" Publisher="CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E" Version="1.0.0.0" ProcessorArchitecture="neutral" />
+  <Identity Name="32694rayd250592.FindtheSnowman" Publisher="CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E" Version="1.0.0.1" ProcessorArchitecture="neutral" />
   <Properties>
     <DisplayName>Find the Snowman</DisplayName>
     <PublisherDisplayName>rayd_250592</PublisherDisplayName>

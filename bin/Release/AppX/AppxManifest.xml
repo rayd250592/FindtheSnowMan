@@ -7,9 +7,9 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="32694rayd250592.GoAwayRain" Publisher="CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E" Version="1.0.0.2" ProcessorArchitecture="neutral" />
+  <Identity Name="32694rayd250592.FindtheSnowman" Publisher="CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E" Version="1.0.0.1" ProcessorArchitecture="neutral" />
   <Properties>
-    <DisplayName>Go Away Rain</DisplayName>
+    <DisplayName>Find the Snowman</DisplayName>
     <PublisherDisplayName>rayd_250592</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -21,9 +21,9 @@
     <Resource Language="EN-US" />
   </Resources>
   <Applications>
-    <Application Id="App" Executable="GoAwayRain.exe" EntryPoint="egghunt.App">
-      <VisualElements DisplayName="Go Away Rain" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="Go Away Rain" ForegroundText="light" BackgroundColor="#464646">
-        <DefaultTile ShowName="allLogos" />
+    <Application Id="App" Executable="FindtheSnowman.exe" EntryPoint="egghunt.App">
+      <VisualElements DisplayName="Find the Snow Man" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="Find the Snowman" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="logoOnly" />
         <SplashScreen Image="Assets\SplashScreen.png" />
         <InitialRotationPreference>
           <Rotation Preference="landscape" />
