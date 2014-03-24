@@ -23,7 +23,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\FindtheSnowman.exe">
       <PackagePath>FindtheSnowman.exe</PackagePath>
-      <Modified>2013-12-23T21:40:18.341</Modified>
+      <Modified>2013-12-23T21:57:00.787</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\background.jpg">
       <PackagePath>Assets\background.jpg</PackagePath>

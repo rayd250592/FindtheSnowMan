@@ -1,6 +1,13 @@
 [Files]
 "C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\AppxManifest.xml" "AppxManifest.xml"
 "C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\FindtheSnowman.exe" "FindtheSnowman.exe"
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd" "Microsoft.Advertising.WinRT.UI.winmd"
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd" "MicrosoftAdvertising.winmd"
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf" "Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf"
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf" "Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf"
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html" "Microsoft.Advertising.WinRT.UI\bootstrap.html"
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js" "Microsoft.Advertising.WinRT.UI\ormma.js"
+"C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\AdSamplePage.xaml.txt" "AdSamplePage.xaml.txt"
 "C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\Assets\background.jpg" "Assets\background.jpg"
 "C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\Assets\rain.png" "Assets\rain.png"
 "C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\Assets\Logo.png" "Assets\Logo.png"

@@ -107,6 +107,9 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <SDKReference Include="MSAdvertisingXaml, Version=8.1">
+      <Name>Microsoft Advertising SDK for Windows 8.1 %28Xaml%29</Name>
+    </SDKReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -125,6 +128,9 @@
     <None Include="egghunt_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AdSamplePage.xaml.txt">
+      <ConnectedServiceReference>FindTheSnowMan</ConnectedServiceReference>
+    </Content>
     <Content Include="Assets\background.jpg" />
     <Content Include="Assets\rain.png" />
     <Content Include="Assets\Logo.png" />

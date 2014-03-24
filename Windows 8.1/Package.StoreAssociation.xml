@@ -357,22 +357,38 @@
   <AccountPackageIdentityNames>
     <MainPackageIdentityName>32694rayd250592.AlcoholUnitCalculator</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.AreaCalc</MainPackageIdentityName>
+    <MainPackageIdentityName>32694rayd250592.BarneyStinsonQutes</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.CarbonCalculator</MainPackageIdentityName>
+    <MainPackageIdentityName>32694rayd250592.CompatabilityChecker</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.Crystal8Ball</MainPackageIdentityName>
+    <MainPackageIdentityName>32694rayd250592.DeathTime</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.FindtheEggs</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.FuelEconomyCalculator</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.GoAwayRain</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.HomeBingo</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.HomeRepaymentCalculator</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.HubViewer</MainPackageIdentityName>
+    <MainPackageIdentityName>32694rayd250592.LottoNumbersPicker</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.MPGCalculator</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.NumberGen</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.PumpkinSmash</MainPackageIdentityName>
+    <MainPackageIdentityName>32694rayd250592.QuickReactions</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.Reactions</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.RepaymentCalculator</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.ShapeCalc</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.TeachMeBinary</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.WindowClean</MainPackageIdentityName>
   </AccountPackageIdentityNames>
-  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/80b78432-408e-4fb5-a069-496410abb476" />
+  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/80b78432-408e-4fb5-a069-496410abb476">
+    <PackageInfo>
+      <OsMinVersion>6.2.1.0</OsMinVersion>
+      <PackageArchitecture>neutral</PackageArchitecture>
+      <PackageMaxArchitectureVersion>1.0.0.1</PackageMaxArchitectureVersion>
+    </PackageInfo>
+    <PackageInfo>
+      <OsMinVersion>6.3.0.0</OsMinVersion>
+      <PackageArchitecture>neutral</PackageArchitecture>
+      <PackageMaxArchitectureVersion>2.1.0.0</PackageMaxArchitectureVersion>
+    </PackageInfo>
+  </PackageInfoList>
 </StoreAssociation>

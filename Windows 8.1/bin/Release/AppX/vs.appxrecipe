@@ -5,81 +5,109 @@
     <WindowsUser>Raymond</WindowsUser>
     <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <PackageIdentityName>32694rayd250592.GoAwayRain</PackageIdentityName>
-    <RegisteredManifestChecksum>26E41C5E81FC48554EF4D864616BBFAD05606E46B8290F206AED172D0B111B22</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>32694rayd250592.GoAwayRain_1.0.0.2_neutral__fb29x01rmnysm</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>32694rayd250592.GoAwayRain_fb29x01rmnysm!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>32694rayd250592.GoAwayRain</RegisteredPackageID>
+    <PackageIdentityName>32694rayd250592.FindtheSnowman</PackageIdentityName>
+    <RegisteredManifestChecksum>37AC7BCC8C9EFFC5B4088B4F450E2BD7F32BD6291BA8A6676FCB1B6256F29B0E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>32694rayd250592.FindtheSnowman_2.1.0.0_neutral__fb29x01rmnysm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>32694rayd250592.FindtheSnowman_fb29x01rmnysm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>32694rayd250592.FindtheSnowman</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.2</RegisteredVersion>
+    <RegisteredVersion>2.1.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-12-22T22:55:38.685</Modified>
+      <Modified>2014-03-22T22:18:01.695</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\GoAwayRain.exe">
-      <PackagePath>GoAwayRain.exe</PackagePath>
-      <Modified>2013-12-22T23:00:27.695</Modified>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\FindtheSnowman.exe">
+      <PackagePath>FindtheSnowman.exe</PackagePath>
+      <Modified>2014-03-22T22:23:58.531</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\background.jpg">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2013-09-13T11:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-09-13T11:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2013-09-13T11:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2013-09-13T11:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2013-09-13T11:43:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2013-09-13T11:46:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\AdSamplePage.xaml.txt">
+      <PackagePath>AdSamplePage.xaml.txt</PackagePath>
+      <Modified>2014-03-22T22:02:08.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\Assets\background.jpg">
       <PackagePath>Assets\background.jpg</PackagePath>
       <Modified>2013-12-22T22:45:57.810</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\rain.png">
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\Assets\rain.png">
       <PackagePath>Assets\rain.png</PackagePath>
       <Modified>2013-12-22T22:45:57.795</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-12-22T22:58:43.888</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\scene.png">
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\Assets\scene.png">
       <PackagePath>Assets\scene.png</PackagePath>
       <Modified>2013-12-22T22:51:02.412</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\SmallLogo.png">
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-12-22T22:59:13.119</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\snow.png">
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\Assets\snow.png">
       <PackagePath>Assets\snow.png</PackagePath>
       <Modified>2013-12-22T22:52:07.742</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-12-22T22:57:43.888</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-12-22T22:59:40.158</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Assets\sun.png">
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\Assets\sun.png">
       <PackagePath>Assets\sun.png</PackagePath>
       <Modified>2013-12-22T22:45:57.769</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\App.xaml">
-      <PackagePath>App.xaml</PackagePath>
-      <Modified>2013-12-22T22:45:56.048</Modified>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-12-23T14:45:47.410</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\Common\StandardStyles.xaml">
-      <PackagePath>Common\StandardStyles.xaml</PackagePath>
-      <Modified>2013-12-22T22:45:56.249</Modified>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2013-12-23T14:45:47.415</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\MainPage.xaml">
-      <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2013-12-22T22:59:47.525</Modified>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-03-22T22:23:58.256</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\bin\Release\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-12-22T22:55:37.999</Modified>
+      <Modified>2014-03-22T22:17:46.557</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

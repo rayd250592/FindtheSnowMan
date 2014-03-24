@@ -114,7 +114,8 @@ namespace egghunt
                 await messageDialog2.ShowAsync();
                 score = 0;
                 result.Text = Convert.ToString(score);
-                
+                var messageDialog3 = new MessageDialog("Next time the Snowman will get you!!!!");
+                await messageDialog3.ShowAsync();
 
             }
 

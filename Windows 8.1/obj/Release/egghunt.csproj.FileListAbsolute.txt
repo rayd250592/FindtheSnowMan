@@ -117,3 +117,7 @@ C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\obj\Release\qualifi
 C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\obj\Release\qualifiers.txt.intermediate
 C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\obj\Release\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\obj\Release\ProjectArchitectures.txt
+C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\MicrosoftAdvertising.winmd
+C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\MicrosoftAdvertising.xml
