@@ -1,1 +1,1 @@
-C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\AppPackages\egghunt_2.2.0.0_AnyCPU_Test\egghunt_2.2.0.0_AnyCPU.appx
+C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\AppPackages\egghunt_2.2.2.0_AnyCPU_Test\egghunt_2.2.2.0_AnyCPU.appx

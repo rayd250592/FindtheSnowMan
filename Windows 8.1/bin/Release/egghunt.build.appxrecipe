@@ -3,9 +3,11 @@
   <PropertyGroup>
     <Machine>RAYMOND-HP</Machine>
     <WindowsUser>Raymond</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>32694rayd250592.FindtheSnowman</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\obj\Release\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\AppxManifest.xml">
@@ -77,6 +79,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\FindtheSnowman.xr.xml">
+      <PackagePath>FindtheSnowman.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>

@@ -20,4 +20,5 @@
 "C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\App.xbf" "App.xbf"
 "C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\Common\StandardStyles.xbf" "Common\StandardStyles.xbf"
 "C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\MainPage.xbf" "MainPage.xbf"
+"C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\FindtheSnowman.xr.xml" "FindtheSnowman.xr.xml"
 "C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\resources.pri" "resources.pri"

@@ -3,51 +3,54 @@
   <PropertyGroup>
     <Machine>RAYMOND-HP</Machine>
     <WindowsUser>Raymond</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>32694rayd250592.FindtheSnowman</PackageIdentityName>
-    <RegisteredManifestChecksum>37AC7BCC8C9EFFC5B4088B4F450E2BD7F32BD6291BA8A6676FCB1B6256F29B0E</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>32694rayd250592.FindtheSnowman_2.1.0.0_neutral__fb29x01rmnysm</RegisteredPackageMoniker>
+    <IntermediateOutputPath>C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>31B4F055A195C9F9F51549B327E7E37B3B97B234B27D18E2416DA2D75B48FF0E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>32694rayd250592.FindtheSnowman_2.2.0.0_neutral__fb29x01rmnysm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>32694rayd250592.FindtheSnowman_fb29x01rmnysm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>32694rayd250592.FindtheSnowman</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E</RegisteredPackagePublisher>
-    <RegisteredVersion>2.1.0.0</RegisteredVersion>
+    <RegisteredVersion>2.2.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-22T22:18:01.695</Modified>
+      <Modified>2014-05-20T16:42:55.893</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\FindtheSnowman.exe">
       <PackagePath>FindtheSnowman.exe</PackagePath>
-      <Modified>2014-03-22T22:23:58.531</Modified>
+      <Modified>2014-05-20T16:48:11.443</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
       <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
-      <Modified>2013-09-13T11:42:48.000</Modified>
+      <Modified>2013-09-13T10:42:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
       <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
-      <Modified>2013-09-13T11:42:48.000</Modified>
+      <Modified>2013-09-13T10:42:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
       <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
-      <Modified>2013-09-13T11:42:56.000</Modified>
+      <Modified>2013-09-13T10:42:56.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
       <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
-      <Modified>2013-09-13T11:42:56.000</Modified>
+      <Modified>2013-09-13T10:42:56.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
       <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
-      <Modified>2013-09-13T11:43:20.000</Modified>
+      <Modified>2013-09-13T10:43:20.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
       <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
-      <Modified>2013-09-13T11:46:04.000</Modified>
+      <Modified>2013-09-13T10:46:04.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\AdSamplePage.xaml.txt">
       <PackagePath>AdSamplePage.xaml.txt</PackagePath>
@@ -95,19 +98,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2013-12-23T14:45:47.410</Modified>
+      <Modified>2014-05-20T16:41:44.323</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\Common\StandardStyles.xbf">
       <PackagePath>Common\StandardStyles.xbf</PackagePath>
-      <Modified>2013-12-23T14:45:47.415</Modified>
+      <Modified>2014-05-20T16:41:44.327</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2014-03-22T22:23:58.256</Modified>
+      <Modified>2014-05-20T16:48:11.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\FindtheSnowman.xr.xml">
+      <PackagePath>FindtheSnowman.xr.xml</PackagePath>
+      <Modified>2014-05-20T16:39:31.190</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-03-22T22:17:46.557</Modified>
+      <Modified>2014-05-20T16:42:51.606</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

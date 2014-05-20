@@ -39,8 +39,14 @@ namespace egghunt
         public MainPage()
         {
             this.InitializeComponent();
+            ad1.ErrorOccurred += ad1_ErrorOccurred;
             
 
+        }
+
+        void ad1_ErrorOccurred(object sender, Microsoft.Advertising.WinRT.UI.AdErrorEventArgs e)
+        {
+            throw new NotImplementedException();
         }
 
         /// <summary>

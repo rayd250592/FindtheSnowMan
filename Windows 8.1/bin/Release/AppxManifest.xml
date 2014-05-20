@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="32694rayd250592.FindtheSnowman" Publisher="CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E" Version="2.2.0.0" ProcessorArchitecture="neutral" />
+  <Identity Name="32694rayd250592.FindtheSnowman" Publisher="CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E" Version="2.2.2.0" ProcessorArchitecture="neutral" />
   <Properties>
     <DisplayName>Find the Snowman</DisplayName>
     <PublisherDisplayName>rayd_250592</PublisherDisplayName>
@@ -35,21 +35,24 @@
       </m2:VisualElements>
     </Application>
   </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
   <Extensions>
     <Extension Category="windows.activatableClass.inProcessServer">
       <InProcessServer>
         <Path>CLRHost.dll</Path>
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.WinRT.UI.AdSettingsFlyout" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Microsoft.Advertising.WinRT.UI.XamlAdControl_XamlTypeInfo.XamlMetaDataProvider" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Microsoft.Advertising.WinRT.UI.AdControl" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Microsoft.Advertising.WinRT.UI.AdSettingsFlyout" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.JSONWrapper" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.AdPlacement" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.SdkInfoProvider" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.Advertisement" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.RendererOptions" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.UserInfoProvider" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.AdEventArgs" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.AdErrorEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.Advertisement" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.AdPlacement" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.RendererOptions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.AdEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.UserInfoProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.SdkInfoProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.JSONWrapper" ThreadingModel="both" />
       </InProcessServer>
     </Extension>
   </Extensions>
@@ -58,9 +61,9 @@
     <build:Item Name="VisualStudio" Version="12.0" />
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Ultimate 2013" />
     <build:Item Name="OperatingSystem" Version="6.3.9600.16384 (winblue_rtm.130821-1623)" />
-    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="12.0.30110.0" />
-    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="12.0.21005.1" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="12.0.30501.0" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="12.0.30501.0" />
     <build:Item Name="MSAdvertisingXaml" Version="8.1" />
-    <build:Item Name="MakePri.exe" Version="6.3.9600.16474 (winblue_gdr.131122-1506)" />
+    <build:Item Name="MakePri.exe" Version="6.3.9600.17029 (winblue_gdr.140219-1702)" />
   </build:Metadata>
 </Package>
