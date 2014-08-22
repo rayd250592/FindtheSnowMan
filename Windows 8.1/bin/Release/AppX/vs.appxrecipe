@@ -8,25 +8,25 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>32694rayd250592.FindtheSnowman</PackageIdentityName>
     <IntermediateOutputPath>C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\obj\Release\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>31B4F055A195C9F9F51549B327E7E37B3B97B234B27D18E2416DA2D75B48FF0E</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>32694rayd250592.FindtheSnowman_2.2.0.0_neutral__fb29x01rmnysm</RegisteredPackageMoniker>
+    <RegisteredManifestChecksum>CA2DF8E1DD097AA4D369600DE0A80DBC5FE05DCCEF39110F8869D243E867AE1A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>32694rayd250592.FindtheSnowman_2.2.2.0_neutral__fb29x01rmnysm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>32694rayd250592.FindtheSnowman_fb29x01rmnysm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>32694rayd250592.FindtheSnowman</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E</RegisteredPackagePublisher>
-    <RegisteredVersion>2.2.0.0</RegisteredVersion>
+    <RegisteredVersion>2.2.2.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-05-20T16:42:55.893</Modified>
+      <Modified>2014-08-22T21:50:02.490</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\FindtheSnowman.exe">
       <PackagePath>FindtheSnowman.exe</PackagePath>
-      <Modified>2014-05-20T16:48:11.443</Modified>
+      <Modified>2014-08-22T21:50:53.574</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
       <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
@@ -98,23 +98,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2014-05-20T16:41:44.323</Modified>
+      <Modified>2014-05-20T16:51:07.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\Common\StandardStyles.xbf">
       <PackagePath>Common\StandardStyles.xbf</PackagePath>
-      <Modified>2014-05-20T16:41:44.327</Modified>
+      <Modified>2014-05-20T16:51:07.094</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2014-05-20T16:48:11.065</Modified>
+      <Modified>2014-08-22T21:50:53.316</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\FindtheSnowman.xr.xml">
       <PackagePath>FindtheSnowman.xr.xml</PackagePath>
-      <Modified>2014-05-20T16:39:31.190</Modified>
+      <Modified>2014-08-22T21:50:53.293</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raymond\Documents\GitHub\FindtheSnowMan\Windows 8.1\bin\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-05-20T16:42:51.606</Modified>
+      <Modified>2014-08-22T21:49:57.144</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

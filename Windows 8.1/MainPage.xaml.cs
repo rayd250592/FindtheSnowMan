@@ -39,15 +39,12 @@ namespace egghunt
         public MainPage()
         {
             this.InitializeComponent();
-            ad1.ErrorOccurred += ad1_ErrorOccurred;
+         
             
 
         }
 
-        void ad1_ErrorOccurred(object sender, Microsoft.Advertising.WinRT.UI.AdErrorEventArgs e)
-        {
-            throw new NotImplementedException();
-        }
+       
 
         /// <summary>
         /// Invoked when this page is about to be displayed in a Frame.
@@ -133,6 +130,12 @@ namespace egghunt
             
             no1 = no1++;
 
+        }
+
+        private async void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var messageDialog3 = new MessageDialog("Developed by Raymond Dillon");
+            await messageDialog3.ShowAsync();
         }
 
        
